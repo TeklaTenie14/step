@@ -209,7 +209,7 @@ input#person {
 
 .bodydiv{
     background-color: #FAFBFC;
-    height: 228%;
+    height: 176%;
 }
 
 .round{
@@ -631,7 +631,7 @@ input[type="checkbox"]:checked{
     border-radius: 20px;
     padding: 0px 24px;
     z-index: 10;
-    margin-bottom: -10%;
+    margin-bottom: -140px;
     margin-top: 20px
 }
 
