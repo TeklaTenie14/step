@@ -60,8 +60,6 @@ html , body{
 }
 
 .home_page_text1{
-    width: 377px;
-    height: 57px;
     font-style: normal;
     font-weight: 700;
     font-size: 45px;
@@ -72,8 +70,6 @@ html , body{
 }
 
 .home_page_text2{
-    width: 753px;
-    height: 101px;
     font-style: normal;
     font-weight: 700;
     font-size: 80px;
@@ -85,8 +81,6 @@ html , body{
 }
 
 .home_page_text3{
-    width: 311px;
-    height: 24px;
     font-style: normal;
     font-weight: 600;
     font-size: 20px;
@@ -139,7 +133,6 @@ html , body{
 }
 
 .country_names{
-    width: 251.33px;
     height: 20px;
     font-style: normal;
     font-weight: 600;
@@ -151,8 +144,6 @@ html , body{
 }
 
 .down_text_C{
-    width: 54px;
-    height: 17px;
     font-style: normal;
     font-weight: 500;
     font-size: 14px;
@@ -172,8 +163,6 @@ html , body{
 }
 
 .plan-your-trip{
-    width: 305px;
-    height: 36px;
     font-style: normal;
     font-weight: 600;
     font-size: 32px;
@@ -182,8 +171,6 @@ html , body{
 }
 
 .search-flight{
-    width: 445px;
-    height: 20px;
     font-style: normal;
     font-weight: 400;
     font-size: 16px;
