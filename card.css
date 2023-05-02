@@ -9,6 +9,15 @@ html , body{
     cursor: pointer;
 }
 
+.wid100{
+    height: 100%;
+    width: 100%;
+}
+
+.wid200{
+    width: 50%;
+}
+
 .longtxt{
     width: 75%;
     font-style: normal;
@@ -142,8 +151,7 @@ html , body{
 
 .login{
     width: 85%;
-    height: 110%;
-    margin-top: 60px;
+    height: 100%;
 }
 
 .login_img{

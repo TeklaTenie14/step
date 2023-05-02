@@ -7,7 +7,6 @@ html , body{
 
 .bodydiv{
     background-color: #FAFBFC;
-    height: 200%;
 }
 
 .header{
@@ -92,8 +91,8 @@ html , body{
     border-radius: 20px;
     padding: 0px 24px;
     z-index: 10;
-    margin-bottom: -10%;
-    margin-top: 20px
+    margin-bottom: -130px;
+    margin-top: 40px
 }
 
 .email-box-text1{
@@ -213,7 +212,7 @@ html , body{
 }
 
 .btn-img{
-    height: 2.7vw;
+    height: 2.4vw;
     object-fit: cover;
 }
 
@@ -232,9 +231,9 @@ html , body{
 
 .down{
     font-style: normal;
-    font-weight: 550;
-    font-size: 1.5vw;
-    line-height: 24px;
+    font-weight: 500;
+    font-size: 1.2vw;
+    line-height: 36px;
     color: #112211;
 }
 
@@ -361,7 +360,7 @@ html , body{
     text-align: center;
     color: #112211;
     opacity: 0.75;
-    margin-top: 8px;
+    margin-top: 18px;
 }
 
 .m2{

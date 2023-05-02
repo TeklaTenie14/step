@@ -24,7 +24,7 @@
                     </div>
                     <div class="header_div_size2 d-flex justify-content-center mouse"><img class="header_golobe" src="Screenshot 2023-04-06 at 18.47.26.png"></div>
                     <div class="header_div_size1 d-flex justify-content-evenly">
-                        <div class=" d-flex align-items-center mouse" id="fav">
+                        <div class=" d-flex align-items-center" id="fav">
                             <div><img class="header_heart" src="Screenshot 2023-04-16 at 22.56.07.png"></div>
                             <div>Favourites</div>
                         </div>
@@ -47,7 +47,7 @@
                                         <br>
                                         <br>
                     
-                                        <a href="#" class="sub-menu-link">
+                                        <a href="#" class="sub-menu-link" id="acc">
                                             <img src="Screenshot 2023-04-16 at 19.41.43.png">
                                             <div>My account</div>
                                             <span><img src="Screenshot 2023-04-20 at 18.11.14.png"></span>
@@ -425,7 +425,7 @@
             }
 
             document.querySelector('#darkBtn_').onclick = function() {
-                location.href = 'hotel 2.html';
+                location.href = 'hotel details.html';
             };
 
             document.querySelector('.header_golobe').onclick = function() {
@@ -446,10 +446,6 @@
 
             document.querySelector('#acc').onclick = function() {
                 location.href = 'account1.html';
-            };
-
-            document.querySelector('#viewD1').onclick = function() {
-                location.href = 'hotel details.html';
             };
         </script>
     </body>

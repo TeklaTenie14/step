@@ -186,8 +186,8 @@ input#person {
 .wid6{
     font-style: normal;
     font-weight: 700;
-    font-size: 1.8vw;
-    line-height: 25px;
+    font-size: 1.5vw;
+    line-height: 30px;
     color: #112211;
 }
 
@@ -209,7 +209,6 @@ input#person {
 
 .bodydiv{
     background-color: #FAFBFC;
-    height: 276%;
 }
 
 .round{
@@ -572,10 +571,20 @@ input[type="checkbox"]:checked{
     margin-bottom: 30px;
 }
 
+.plane-card:hover{
+    padding: 1px;
+    box-shadow: 0px 4px 16px #8dd3ba8d;
+}
+
 .plane-card1{
     background: #FFFFFF;
     box-shadow: 0px 4px 16px rgba(17, 34, 17, 0.05);
     border-radius: 12px;
+}
+
+.plane-card1:hover{
+    padding: 1px;
+    box-shadow: 0px 4px 16px #8dd3ba8d;
 }
 
 .wid3{
@@ -618,8 +627,8 @@ input[type="checkbox"]:checked{
     border-radius: 20px;
     padding: 0px 24px;
     z-index: 10;
-    margin-bottom: -10%;
-    margin-top: 20px
+    margin-bottom: -130px;
+    margin-top: 40px
 }
 
 .email-box-text1{

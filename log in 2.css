@@ -5,6 +5,15 @@ html , body{
     height: 100%;
 }
 
+.wid1{
+    width: 47%;
+    height: fit-content;
+}
+
+.wid{
+    height: 100%;
+    width: 100%;
+}
 
 .log_in_foget_img{
     height: 13.5px;
@@ -13,8 +22,6 @@ html , body{
 }
 
 .login_psw_forgot{
-    width: 512px;
-    height: 51px;
     font-style: normal;
     font-weight: 700;
     font-size: 40px;
@@ -25,8 +32,6 @@ html , body{
 }
 
 .login_small_psw{
-    width: 512px;
-    height: 40px;
     font-style: normal;
     font-weight: 400;
     font-size: 16px;
@@ -36,9 +41,46 @@ html , body{
     margin-bottom: 48px;
 }
 
+.m40{
+    margin-bottom: 40px;
+}
+
+.line_login_1{
+    width: 40%;
+    height: 0.5px;
+    background: #112211;
+    opacity: 0.25;
+}
+
+.or_login_with{
+    width: 20%;
+    height: 17px;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 17px;
+    color: #112211;
+    opacity: 0.5;
+    margin-left: 16px;
+    margin-right: 16px;
+}
+
+.icon_btn{
+    padding: 16px 24px;
+    width: 30%;
+    height: 70px;
+    border: 1px solid #8DD3BB;
+    border-radius: 4px;
+    margin-bottom: 20px;
+}
+
+.margin_login-btn_google{
+    margin: 0 20px;
+}
+
 .email_login{
     gap: 10px;
-    width: 512px;
+    width: 100%;
     height: 56px;
     background: #FFFFFF;
     border: 1px solid #79747E;
@@ -50,8 +92,8 @@ html , body{
 .login_btn_psw{
     padding: 8px 16px;
     gap: 4px;
-    width: 512px;
-    height: 48px;
+    width: 100%;
+    height: 55px;
     background: #8DD3BB;
     border-radius: 4px;
     border: none;
@@ -66,7 +108,7 @@ html , body{
     height: 17px;
     font-style: normal;
     font-weight: 400;
-    font-size: 14px;
+    font-size: 16px;
     line-height: 17px;
     color: #112211;
     opacity: 0.5;
@@ -87,8 +129,7 @@ html , body{
 
 .login{
     width: 85%;
-    height: 110%;
-    margin-top: 60px;
+    height: 100%;
 }
 
 .login_img{
@@ -106,8 +147,8 @@ html , body{
 
 .icon_btn{
     padding: 16px 24px;
-    width: 160px;
-    height: 56px;
+    width: 30%;
+    height: 70px;
     border: 1px solid #8DD3BB;
     border-radius: 4px;
     margin-bottom: 20px;

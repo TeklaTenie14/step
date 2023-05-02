@@ -38,8 +38,6 @@ html , body{
 }
 
 .header_find{
-    width: 79px;
-    height: 17px;
     font-style: normal;
     font-weight: 600;
     font-size: 14px;
@@ -111,12 +109,16 @@ html , body{
 #cards_county{
     padding: 16px;
     gap: 16px;
-    width: 390px;
-    height: 122px;
+    width: 30%;
     background: #FFFFFF;
     box-shadow: 0px 4px 16px rgba(17, 34, 17, 0.11);
     border-radius: 16px;
     margin-bottom: 20px;
+}
+
+#cards_county:hover{
+    width: 32%;
+    box-shadow: 0px 4px 16px #8dd3ba8d;
 }
 
 .hp2{
@@ -129,11 +131,14 @@ html , body{
 }
 
 .between{
-    width: 89%;
+    width: 85%;
+}
+
+.size90{
+    width: 90%;
 }
 
 .country_names{
-    height: 20px;
     font-style: normal;
     font-weight: 600;
     font-size: 16px;
@@ -178,7 +183,6 @@ html , body{
     color: #112211;
     opacity: 0.75;
     margin-top: 16px;
-    margin-bottom: 40px;
 }
 
 #black{
@@ -188,11 +192,12 @@ html , body{
 
 .size_beetwen{
     width: 84%;
+    margin-bottom: 40px;
 }
 
 .cards_f_h{
-    width: 84%;
-    margin:40px 0;
+    width: 85%;
+    margin:50px 0;
 }
 
 .mouse{
@@ -201,25 +206,33 @@ html , body{
 
 .airport{
     background: linear-gradient(rgba(100, 100, 100, 0.044), rgba(37, 37, 37, 0.412)) ,  url(airport.JPG);
-    width: 590px;
-    height: 550px;
+    width: 47%;
+    height: 650px;
     border-radius: 20px;
     background-repeat: no-repeat;
     background-size: cover;
+}
+
+.airport:hover{
+    width: 48%;
+    box-shadow: 0px 4px 16px #8dd3ba8d;
 }
 
 .hotel{
     background: linear-gradient(rgba(100, 100, 100, 0.044), rgba(37, 37, 37, 0.412)) ,  url(hotel.jpg);
-    width: 590px;
-    height: 550px;
+    width: 47%;
+    height: 650px;
     border-radius: 20px;
     background-repeat: no-repeat;
     background-size: cover;
 }
 
+.hotel:hover{
+    width: 48%;
+    box-shadow: 0px 4px 16px #8dd3ba8d;
+}
+
 .airport_hotel_text{
-    width: 389px;
-    height: 51px;
     font-style: normal;
     font-weight: 700;
     font-size: 50px;
@@ -229,8 +242,6 @@ html , body{
 }
 
 .airport_hotel_text_sm{
-    width: 389px;
-    height: 40px;
     font-style: normal;
     font-weight: 400;
     font-size: 20px;
@@ -242,7 +253,7 @@ html , body{
 }
 
 .margin_down{
-    margin-bottom: 20px;
+    margin-bottom: 30px;
 }
 
 .headline_card{
@@ -334,13 +345,13 @@ html , body{
 
 #reviews_card{
     padding: 24px;
-    gap: 40px;
-    width: 400px;
-    height: 530px;
-    box-shadow: 2px 4px 16px rgba(13, 28, 13, 0.1);
-    border-radius: 20px;
-    border: 0.5 rgb(44, 44, 44);
-    margin-left: 10px;
+    gap: 40px;    
+    width: 400px;    
+    height: 530px;    
+    box-shadow: 2px 4px 16px rgba(13, 28, 13, 0.1);    
+    border-radius: 20px;    
+    border: 0.5 rgb(44, 44, 44);    
+    margin-left: 10px;    
     margin-top: 5px;
 }
 
@@ -348,16 +359,19 @@ html , body{
     width: 85%;
 }
 
+.fl{
+    width: 100%;
+}
+
 .email-box{
     background-image: url(smth.jpg);
-    width: 85%;
-    height: 305px;
     box-shadow: 0px 4px 16px rgba(17, 34, 17, 0.05);
     border-radius: 20px;
-    padding: 0px 24px;
+    width: 85%;
+    padding: 24px;
     z-index: 10;
-    margin-bottom: -10%;
-    margin-top: 20px
+    margin-bottom: -130px;
+    margin-top: 45px;
 }
 
 .email-box-text1{
@@ -459,7 +473,7 @@ span{
 }
 
 #onCard{
-    top: -55px;
+    top: -80px;
     border: none;
     padding: 16px 32px 32px;
     gap: 32px;
@@ -472,7 +486,6 @@ span{
 
 .btn_text1{
     width: 122px;
-    height: 17px;
     font-style: normal;
     font-weight: 500;
     font-size: 13px;
@@ -482,7 +495,6 @@ span{
 
 .btn_text2{
     width: 92px;
-    height: 17px;
     font-style: normal;
     font-weight: 500;
     font-size: 14px;
@@ -516,7 +528,7 @@ span{
 }
 
 .input1 , .input3 , .input4{
-    width: 25%;
+    width: 24%;
 }
 
 .input2{
@@ -566,7 +578,7 @@ span{
 }
 
 .down_headline{
-    width: 18%;
+    width: 13%;
 }
 
 .flights_{
