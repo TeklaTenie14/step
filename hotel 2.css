@@ -281,9 +281,9 @@ input[type="checkbox"]:checked{
     font-weight: 500;
     font-size: 12px;
     line-height: 15px;
-    text-align: right;
     color: #112211;
     opacity: 0.75;
+    margin-top:10px;
 }
 
 .star{
