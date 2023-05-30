@@ -226,7 +226,7 @@ html , body{
     font-size: 1.2;
     line-height: 20px;
     color: #112211;
-    opacity: 0.75;
+    opacity: 0.65;
 }
 
 .down{
@@ -327,15 +327,14 @@ html , body{
 }
 
 .pr{
-    width: 17%;
+    width: 15%;
     border-radius: 50%;
     object-fit: cover;
     border: 5px solid color(srgb 0.9998 0.5248 0.5108);
 }
 
 .pr2{
-    width: 5%;
-    height: 5%;
+    width: 4%;
     border-radius: 50%;
     object-fit: cover;
     border: 5px solid color(srgb 0.9998 0.5248 0.5108);
@@ -345,7 +344,7 @@ html , body{
 .john{
     font-style: normal;
     font-weight: 600;
-    font-size: 2vw;
+    font-size: 1.9vw;
     line-height: 29px;
     text-align: center;
     color: #112211;
@@ -355,7 +354,7 @@ html , body{
 .email{
     font-style: normal;
     font-weight: 400;
-    font-size: 1.7vw;
+    font-size: 1.5vw;
     line-height: 20px;
     text-align: center;
     color: #112211;
