@@ -15,7 +15,7 @@ html , body{
 }
 
 .header_div_size{
-    width: 15%;
+    width: 17%;
 }
 
 .header_div_size1{
@@ -69,7 +69,7 @@ html , body{
 }
 
 .down_line{
-    width: 42%;
+    width: 45%;
     height: 5px;
     background: #8DD3BB;
 }
@@ -284,6 +284,7 @@ input[type="checkbox"]:checked{
     text-align: right;
     color: #112211;
     opacity: 0.75;
+    margin-bottom: 4px;
 }
 
 .star{
