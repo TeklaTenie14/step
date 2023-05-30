@@ -300,7 +300,7 @@ input#person {
 }
 
 #baratebi1{
-    width: 21%;
+    width: 24%;
     height: 450px;
     border-radius: 12px;
     background-size: 100% 100%;
@@ -308,7 +308,7 @@ input#person {
 }
 
 #baratebi2{
-    width: 21%;
+    width: 24%;
     height: 450px;
     border-radius: 12px;
     background-size: 100% 100%;
@@ -316,7 +316,7 @@ input#person {
 }
 
 #baratebi3{
-    width: 21%;
+    width: 24%;
     height: 450px;
     border-radius: 12px;
     background-size: 100% 100%;
@@ -324,7 +324,7 @@ input#person {
 }
 
 #baratebi4{
-    width: 21%;
+    width: 24%;
     height: 450px;
     border-radius: 12px;
     background-size: 100% 100%;
@@ -332,22 +332,22 @@ input#person {
 }
 
 #baratebi1:hover{
-    width: 22%;
+    width: 25%;
     box-shadow: 0px 4px 16px #8dd3ba8d;
 }
 
 #baratebi3:hover{
-    width: 22%;
+    width: 25%;
     box-shadow: 0px 4px 16px #8dd3ba8d;
 }
 
 #baratebi2:hover{
-    width: 22%;
+    width: 25%;
     box-shadow: 0px 4px 16px #8dd3ba8d;
 }
 
 #baratebi4:hover{
-    width: 22%;
+    width: 25%;
     box-shadow: 0px 4px 16px #8dd3ba8d;
 }
 
@@ -400,7 +400,7 @@ input#person {
     height: 70px;
     background: #FFFFFF;
     border-radius: 8px;
-    padding: 7px;
+    padding: 7px 20px;
 }
 
 .from{
@@ -602,6 +602,7 @@ input#person {
     height: 90px;
     border-radius: 8px;
     margin-left: 3px;
+    margin-right: 10px;
 }
 
 .height{
