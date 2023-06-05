@@ -260,7 +260,7 @@ html , body{
 }
 
 #baratebi1{
-    width: 21%;
+    width: 24%;
     height: 450px;
     border-radius: 12px;
     background-size: 100% 100%;
@@ -268,7 +268,7 @@ html , body{
 }
 
 #baratebi2{
-    width: 21%;
+    width: 24%;
     height: 450px;
     border-radius: 12px;
     background-size: 100% 100%;
@@ -276,7 +276,7 @@ html , body{
 }
 
 #baratebi3{
-    width: 21%;
+    width: 24%;
     height: 450px;
     border-radius: 12px;
     background-size: 100% 100%;
@@ -284,12 +284,33 @@ html , body{
 }
 
 #baratebi4{
-    width: 21%;
+    width: 24%;
     height: 450px;
     border-radius: 12px;
     background-size: 100% 100%;
     background: linear-gradient(rgba(0, 0, 0, 0.165), rgba(0, 0, 0, 0.31)), url(york-photography\ copy.png) , no-repeat;
 }
+
+#baratebi1:hover{
+    width: 25%;
+    box-shadow: 0px 4px 16px #8dd3ba8d;
+}
+
+#baratebi3:hover{
+    width: 25%;
+    box-shadow: 0px 4px 16px #8dd3ba8d;
+}
+
+#baratebi2:hover{
+    width: 25%;
+    box-shadow: 0px 4px 16px #8dd3ba8d;
+}
+
+#baratebi4:hover{
+    width: 25%;
+    box-shadow: 0px 4px 16px #8dd3ba8d;
+}
+
 
 .baratebis_shekvra{
     width: 85%;
@@ -503,22 +524,3 @@ span{
     box-shadow: 0px 4px 16px #8dd3ba8d;
 }
 
-#baratebi1:hover{
-    width: 22%;
-    box-shadow: 0px 4px 16px #8dd3ba8d;
-}
-
-#baratebi3:hover{
-    width: 22%;
-    box-shadow: 0px 4px 16px #8dd3ba8d;
-}
-
-#baratebi2:hover{
-    width: 22%;
-    box-shadow: 0px 4px 16px #8dd3ba8d;
-}
-
-#baratebi4:hover{
-    width: 22%;
-    box-shadow: 0px 4px 16px #8dd3ba8d;
-}
