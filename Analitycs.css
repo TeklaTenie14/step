@@ -1,0 +1,156 @@
+html,body{
+    height: 100%;
+    width: 100%;
+    margin: 0;
+    padding: 0;
+}
+
+.main{
+    height: 100%;
+    width: 100%;
+    background-color: black;
+}
+
+.mouse{
+    cursor: pointer;
+}
+
+.logo{
+    height: 28px;
+    width: 80%;
+    margin: 15px 0 20px 0;
+}
+
+.center{
+    height: 55%;
+}
+
+.mini_logo{
+    width: 36px;
+    margin-right: 5px;
+}
+
+.mini_logo1{
+    width: 42px;
+    height: 42px;
+    margin-right: 7px;
+}
+
+.wid20{
+    width: 70%;
+}
+
+.bigTXT{
+    font-weight: 250;
+    font-size: 25px;
+    color: white;
+}
+
+.bigTXT1{
+    font-weight: 300;
+    font-size: 25px;
+    letter-spacing: 2px;
+    color: white;
+}
+
+.bigTXT2{
+    font-weight: 300;
+    font-size: 21px;
+    color: white;
+}
+
+#afterclick {
+    max-height: 0;
+    overflow: hidden;
+    transition: 0.3s;
+}
+
+.down{
+    padding: 10px 0 10px 20px;
+}
+
+.down2{
+    padding: 5px 0 5px 20px;
+}
+
+.headline{
+    font-weight: 500;
+    font-size: 65px;
+    letter-spacing: 1px;
+    color: white;
+    margin-bottom: 40px;
+}
+
+.bluebox{
+    width: 45%;
+    height: 75%;
+    background-image: linear-gradient(#5216A7, #040D4E);
+    border-radius: 20px;
+    color: white;
+}
+
+.right {
+    width: 100%;
+    height: 100%;
+    background-color: #030510;
+    padding-left: 20%;
+}
+.menu {
+    position: fixed;
+    width: 300px;
+    height: 100%;
+    background-color: #010d1a;
+}
+
+.boxes{
+    width: 22.5%;
+    height: 90px;
+    background-color: #050F23;
+    border-radius: 20px;
+    padding: 8px;
+    box-shadow: 3px 3px 9px rgb(1, 1, 38);
+}
+
+.space{
+    height: 50%;
+}
+
+.none{
+    position:absolute;
+}
+
+#rulesdowntxt {
+    max-height: 0;
+    overflow: hidden;
+    transition: 0.3s;
+    margin-top: 40px;
+    margin-left: 15%;
+}
+
+.rules_down{
+    font-weight: 300;
+    font-size: 19px;
+    color: white;
+}
+
+.k{
+    font-weight: 450;
+    font-size: 22px;
+    color: white;
+    margin-left: 15px;
+}
+
+.down_k{
+    font-weight: 250;
+    font-size: 16px;
+    color: white;
+    margin-left: 15px;
+}
+
+.txtB{
+    font-weight: 400;
+    font-size: 40px;
+    letter-spacing: 2px;
+    color: white;
+    margin: 10px 0;
+}
